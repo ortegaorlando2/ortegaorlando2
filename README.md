@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Orlando Ortega
 - 👀 I’m interested in mixing Geology and Data Science
-- 🌱 I’m currently learning Artificial Intelligence and Machine Learning
+- 🌱 I obtained a certificate in Data Analytics and Visualizations from Rice University
+- 🌱 I have also completed advanced training in Artificial Intelligence and Machine Learning
 - 💞️ I’m looking to collaborate on developing methods for energy continuation and transformation
 - 📫 How to reach me: 0rtegaorlando2@gmail.com
 
